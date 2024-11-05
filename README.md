@@ -1,2 +1,2 @@
 # Online-Chat-Application
-Two-person chat application featuring personalized icons and stylish fonts. With an intuitive design, it promises an engaging and enjoyable user experience!
+The Two-Person Chat Application project is all about sparking fun and meaningful conversations! Users can choose unique icons to showcase their personality and use cool fonts to make their messages stand out. This app is designed to create a lively space where friends can connect and share their thoughts easily. Get ready to turn every chat into an enjoyable experience that truly reflects who you are!📱📱📱
